@@ -15,3 +15,7 @@
 ### similar projects
 
 [a more complete (and complex) version that parses the entire .ttis file into a POSTGRESQL database](https://github.com/jhumphry/ukraildata_etl)
+
+### references
+
+[all the acronyms](http://www.railwaycodes.org.uk/crs/CRS0.shtm)
