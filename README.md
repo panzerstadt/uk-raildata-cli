@@ -10,3 +10,7 @@
 
 1. search station data by CRS / 3Alpha / NRS code
 2. search station data by station name (string search)
+
+### similar projects
+
+[a more complete (and complex) version that parses the entire .ttis file into a POSTGRESQL database](https://github.com/jhumphry/ukraildata_etl)
