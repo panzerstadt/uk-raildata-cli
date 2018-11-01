@@ -341,14 +341,32 @@ def CLI():
     print('search for station data by CRS or station name:')
     chk = input('1. by CRS\n2. by station name\nchoice:_')
 
+    station_data = None
     if int(chk) == 1:
         print('searching by CRS')
         param = input('please input CRS code:_')
-        station_from_CRS(crs=param)
+        station_data = station_from_CRS(crs=param)
     elif int(chk) == 2:
         print('searching by station name')
         param = input('please input station name:_')
-        station_from_name(station_name=param)
+        station_data = station_from_name(station_name=param)
+
+    if station_data:
+        chk = input(
+            '\ndo you want to search for live timetable data for this station? (y/N)')
+        if chk.lower() == "y":
+            if len(station_data) > 1:
+                print('multiple data points found. which one do you want to use?')
+                print('-'*100)
+                for i, s in enumerate(station_data):
+                    print('choice: {}'.format(i))
+                    print('data: {}'.format(json.dumps(
+                        s, indent=2, ensure_ascii=False)))
+                    print('-'*50)
+
+            choice = input('\nchoice:_')
+            station_data = station_data[int(choice)]
+            search_by_station(station_CRS=station_data["CRS_main"])
 
 
 if __name__ == "__main__":
