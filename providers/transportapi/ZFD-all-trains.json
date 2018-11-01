@@ -1,0 +1,230 @@
+{
+    "date": "2018-10-30",
+    "time_of_day": "09:53",
+    "request_time": "2018-10-30T09:53:27+00:00",
+    "station_name": "Farringdon (London)",
+    "station_code": "ZFD",
+    "departures": {
+        "all": [{
+            "mode": "train",
+            "service": "22728000",
+            "train_uid": "W64717",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "09:47",
+            "aimed_arrival_time": "09:46",
+            "aimed_pass_time": null,
+            "origin_name": "St Albans",
+            "destination_name": "Sutton (Surrey)",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64717/2018-10-30/timetable.json?live=true"
+            },
+            "status": "LATE",
+            "expected_arrival_time": "10:09",
+            "expected_departure_time": "10:10",
+            "best_arrival_estimate_mins": 15,
+            "best_departure_estimate_mins": 16
+        }, {
+            "mode": "train",
+            "service": "22720000",
+            "train_uid": "W64533",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "09:54",
+            "aimed_arrival_time": "09:54",
+            "aimed_pass_time": null,
+            "origin_name": "Bedford",
+            "destination_name": "Brighton",
+            "source": "Network Rail",
+            "category": "XX",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64533/2018-10-30/timetable.json?live=true"
+            },
+            "status": "ON TIME",
+            "expected_arrival_time": "09:54",
+            "expected_departure_time": "09:54",
+            "best_arrival_estimate_mins": 0,
+            "best_departure_estimate_mins": 0
+        }, {
+            "mode": "train",
+            "service": "22722000",
+            "train_uid": "W64706",
+            "platform": "4",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "09:59",
+            "aimed_arrival_time": "09:58",
+            "aimed_pass_time": null,
+            "origin_name": "Sutton (Surrey)",
+            "destination_name": "St Albans",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64706/2018-10-30/timetable.json?live=true"
+            },
+            "status": "EARLY",
+            "expected_arrival_time": "09:58",
+            "expected_departure_time": "09:59",
+            "best_arrival_estimate_mins": 4,
+            "best_departure_estimate_mins": 5
+        }, {
+            "mode": "train",
+            "service": "22729000",
+            "train_uid": "W64453",
+            "platform": "4",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:01",
+            "aimed_arrival_time": "10:01",
+            "aimed_pass_time": null,
+            "origin_name": "Horsham",
+            "destination_name": "Bedford",
+            "source": "Network Rail",
+            "category": "XX",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64453/2018-10-30/timetable.json?live=true"
+            },
+            "status": "EARLY",
+            "expected_arrival_time": "10:01",
+            "expected_departure_time": "10:01",
+            "best_arrival_estimate_mins": 7,
+            "best_departure_estimate_mins": 7
+        }, {
+            "mode": "train",
+            "service": "22728000",
+            "train_uid": "X10335",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:02",
+            "aimed_arrival_time": "10:01",
+            "aimed_pass_time": null,
+            "origin_name": "St Albans",
+            "destination_name": "Sutton (Surrey)",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:X10335/2018-10-30/timetable.json?live=true"
+            },
+            "status": "LATE",
+            "expected_arrival_time": "10:17",
+            "expected_departure_time": "10:18",
+            "best_arrival_estimate_mins": 23,
+            "best_departure_estimate_mins": 24
+        }, {
+            "mode": "train",
+            "service": "22728000",
+            "train_uid": "W64380",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:07",
+            "aimed_arrival_time": "10:06",
+            "aimed_pass_time": null,
+            "origin_name": "Luton",
+            "destination_name": "Rainham (Kent)",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64380/2018-10-30/timetable.json?live=true"
+            },
+            "status": "LATE",
+            "expected_arrival_time": "10:11",
+            "expected_departure_time": "10:12",
+            "best_arrival_estimate_mins": 17,
+            "best_departure_estimate_mins": 18
+        }, {
+            "mode": "train",
+            "service": "22720000",
+            "train_uid": "W64449",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:09",
+            "aimed_arrival_time": "10:09",
+            "aimed_pass_time": null,
+            "origin_name": "Bedford",
+            "destination_name": "Gatwick Airport",
+            "source": "Network Rail",
+            "category": "XX",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64449/2018-10-30/timetable.json?live=true"
+            },
+            "status": "EARLY",
+            "expected_arrival_time": "10:09",
+            "expected_departure_time": "10:09",
+            "best_arrival_estimate_mins": 15,
+            "best_departure_estimate_mins": 15
+        }, {
+            "mode": "train",
+            "service": "22722000",
+            "train_uid": "W64238",
+            "platform": "4",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:14",
+            "aimed_arrival_time": "10:13",
+            "aimed_pass_time": null,
+            "origin_name": "Sutton (Surrey)",
+            "destination_name": "St Albans",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64238/2018-10-30/timetable.json?live=true"
+            },
+            "status": "EARLY",
+            "expected_arrival_time": "10:13",
+            "expected_departure_time": "10:14",
+            "best_arrival_estimate_mins": 19,
+            "best_departure_estimate_mins": 20
+        }, {
+            "mode": "train",
+            "service": "22721000",
+            "train_uid": "W64528",
+            "platform": "4",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:16",
+            "aimed_arrival_time": "10:16",
+            "aimed_pass_time": null,
+            "origin_name": "Brighton",
+            "destination_name": "Bedford",
+            "source": "Network Rail",
+            "category": "XX",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64528/2018-10-30/timetable.json?live=true"
+            },
+            "status": "LATE",
+            "expected_arrival_time": "10:17",
+            "expected_departure_time": "10:17",
+            "best_arrival_estimate_mins": 23,
+            "best_departure_estimate_mins": 23
+        }, {
+            "mode": "train",
+            "service": "22728000",
+            "train_uid": "W64721",
+            "platform": "3",
+            "operator": "TL",
+            "operator_name": "Thameslink",
+            "aimed_departure_time": "10:17",
+            "aimed_arrival_time": "10:16",
+            "aimed_pass_time": null,
+            "origin_name": "St Albans",
+            "destination_name": "Sutton (Surrey)",
+            "source": "Network Rail",
+            "category": "OO",
+            "service_timetable": {
+                "id": "http://fcc.transportapi.com/v3/uk/train/service/train_uid:W64721/2018-10-30/timetable.json?live=true"
+            },
+            "status": "LATE",
+            "expected_arrival_time": "10:27",
+            "expected_departure_time": "10:28",
+            "best_arrival_estimate_mins": 33,
+            "best_departure_estimate_mins": 34
+        }]
+    }
+}
