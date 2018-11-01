@@ -6,10 +6,11 @@
 2. install libraries from `requirements.txt`
 3. run `main.py`
 
-### 2 functions exposed
+### 3 functions exposed
 
 1. search station data by CRS / 3Alpha / NRS code
-2. search station data by station name (string search)
+2. search station data by TIPLOC
+3. search station data by station name (string search)
 
 ### similar projects
 

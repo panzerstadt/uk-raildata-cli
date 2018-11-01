@@ -203,6 +203,21 @@ def station_from_CRS(dict_file="temp.json", crs="COV", show_json=True):
     return output
 
 
+def station_from_TIPLOC(dict_file="temp.json", tiploc="ABWD", show_json=True):
+    output = []
+    with open(dict_file) as f:
+        station_names = json.load(f)
+
+    for s in station_names:
+        if s['TIPLOC'] == tiploc.upper():
+            output.append(s)
+
+    if show_json:
+        print(json.dumps(output, indent=4, ensure_ascii=False))
+
+    return output
+
+
 def station_from_name(dict_file="temp.json", station_name="coventry", show_json=True):
     output = []
     with open(dict_file) as f:
@@ -339,7 +354,8 @@ def sample():
 
 def CLI():
     print('search for station data by CRS or station name:')
-    chk = input('1. by CRS\n2. by station name\nchoice:_')
+    chk = input(
+        '1. by CRS\n2. by station TIPLOC\n3. by station name\n9. help documentation for these weird acronyms\nchoice:_')
 
     station_data = None
     if int(chk) == 1:
@@ -347,9 +363,15 @@ def CLI():
         param = input('please input CRS code:_')
         station_data = station_from_CRS(crs=param)
     elif int(chk) == 2:
+        print('searching by TIPLOC')
+        param = input('please input TIPLOC code:_')
+        station_data = station_from_TIPLOC(tiploc=param)
+    elif int(chk) == 3:
         print('searching by station name')
         param = input('please input station name:_')
         station_data = station_from_name(station_name=param)
+    elif int(chk) == 9:
+        describe()
 
     if station_data:
         chk = input(
@@ -364,8 +386,10 @@ def CLI():
                         s, indent=2, ensure_ascii=False)))
                     print('-'*50)
 
-            choice = input('\nchoice:_')
-            station_data = station_data[int(choice)]
+                choice = input('\nchoice:_')
+                station_data = station_data[int(choice)]
+            else:
+                station_data = station_data[0]
             search_by_station(station_CRS=station_data["CRS_main"])
 
 
