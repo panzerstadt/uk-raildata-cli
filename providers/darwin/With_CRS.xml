@@ -1,0 +1,64 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <ns2:DisruptionByStationCrsResponse xmlns:ns2="http://www.thalesgroup.com/ojp/dis" xmlns:ns3="http://www.thalesgroup.com/ojp/commonDisruption">
+         <ns2:invalidCrsSupplied>
+            <ns3:stationCRS>123</ns3:stationCRS>
+         </ns2:invalidCrsSupplied>
+         <ns2:disruptionsForCrs>
+            <ns2:stationCRS>BIT</ns2:stationCRS>
+            <ns2:disruptions>
+               <ns3:disruption>
+                  <ns3:creationTime>2013-11-25T13:52:00.000Z</ns3:creationTime>
+                  <ns3:lastChangedDate>2014-02-19T15:26:00.000Z</ns3:lastChangedDate>
+                  <ns3:description><![CDATA[<p><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>Chiltern Railways in partnership with Network Rail, are investing &#163;130 million&#160;in building a new rail link between Oxford and London Marylebone.</span></span></span></span></span></p><SPAN lang=EN-GB sizset="27" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0">
+<p><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>This will include:</span></span></span></span></span></p>
+<ul>
+<li><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>Laying almost a mile of new track&#160;between Bicester&#160;Town to&#160;just south of Bicester North&#160;to join the main line between Birmingham and London Marylebone</span></span></span></span></span> 
+<li><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>Renewal of existing track and signalling equipment&#160;</span></span></span></span></span> 
+<li><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>A&#160;new station between Oxford and Islip called Oxford Parkway</span></span></span></span></span> </li></ul>
+<p><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB>From summer 2015 Chiltern Railways will introduce a new service between London Marylebone and Oxford Parkway.</span></span></span></span></span></p>
+<p sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="27" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0">From spring 2016 these services will begin to run from the centre of Oxford.&#160;For&#160;further information please click <a href="http://www.chilternrailways.co.uk/bicester-oxford">here</a> or <a href="http://www.networkrail.co.uk/east-west-rail/?cd=1">here.</a></span></span></span></span></span></p>
+<p sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB><SPAN lang=EN-GB></span></span></span></span></span><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0000058462902430111985="0" sizcache05811793301760391="0" sizcache0013275274648660073="0" sizcache06481758114208709="0">To allow this improvement work to take place&#160;the line between Oxford and Bicester Town will be closed&#160;until summer 2015, as a result buses will replace trains between Oxford and Bicester Town.<SPAN lang=EN-GB sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"><SPAN lang=EN-GB sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"></p>
+<p><strong>Planning your Journey</strong></p>
+<p sizset="29" sizcache0013275274648660073="0" sizcache06481758114208709="0"></span></span></span></span></span>For full details of these changes and the impact on your journey, please use the National Rail Enquiries <a href="http://ojp.nationalrail.co.uk/">Journey Planner</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>]]></ns3:description>
+                  <ns3:equipmentReason>MAINTENANCE_WORK</ns3:equipmentReason>
+                  <ns3:incidentNumber>E85348624A0D432494443ADE6F479F26</ns3:incidentNumber>
+                  <ns3:participantRef>E85348624A0D432494443ADE6F479F26</ns3:participantRef>
+                  <ns3:planned>true</ns3:planned>
+                  <ns3:summary>Buses replace trains between Oxford and Bicester Town until Summer 2015</ns3:summary>
+                  <ns3:disruptionVersion>20140219152600</ns3:disruptionVersion>
+                  <ns3:changedBy>pthomas</ns3:changedBy>
+                  <ns3:ojpVersion>13</ns3:ojpVersion>
+                  <ns3:infoLinks>
+                     <ns3:label>nationalrail.co.uk</ns3:label>
+                     <ns3:uri>http://www.nationalrail.co.uk/service_disruptions/62816.aspx</ns3:uri>
+                  </ns3:infoLinks>
+                  <ns3:infoLinks>
+                     <ns3:label>Additional Maps</ns3:label>
+<ns3:uri>http://www.nationalrail.co.uk/static/documents/maps/Oxford_Bicester_Town(2).pdf</ns3:uri>
+                  </ns3:infoLinks>
+                  <ns3:networks>
+                     <ns3:affectedRoute>&lt;p>Trains between Oxford and Bicester Town&lt;/p></ns3:affectedRoute>
+                  </ns3:networks>
+                  <ns3:operators>
+                     <ns3:name>Chiltern Railways</ns3:name>
+                     <ns3:ref>CH</ns3:ref>
+                  </ns3:operators>
+                  <ns3:progress>open</ns3:progress>
+                  <ns3:validityPeriod>
+                     <ns3:startTime>2014-02-15T00:00:00.000Z</ns3:startTime>
+                     <ns3:endTime>2015-05-09T00:59:00.000+01:00</ns3:endTime>
+                  </ns3:validityPeriod>
+               </ns3:disruption>
+            </ns2:disruptions>
+         </ns2:disruptionsForCrs>
+         <ns2:disruptionsForCrs>
+            <ns2:stationCRS>EUS</ns2:stationCRS>
+         </ns2:disruptionsForCrs>
+         <ns2:disruptionsForCrs>
+            <ns2:stationCRS>MAN</ns2:stationCRS>
+         </ns2:disruptionsForCrs>
+      </ns2:DisruptionByStationCrsResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,18 @@
+{
+  "trainServices": null,
+  "busServices": null,
+  "ferryServices": null,
+  "generatedAt": "2018-11-06T02:18:57.4950454+00:00",
+  "locationName": "Clapham Junction",
+  "crs": "CLJ",
+  "filterLocationName": null,
+  "filtercrs": null,
+  "filterType": 0,
+  "nrccMessages": [
+    {
+      "value": "Disruption between Purley and Redhill. More information can be found in <A href=\"http://nationalrail.co.uk/service_disruptions/205613.aspx\">Latest Travel News</A>."
+    }
+  ],
+  "platformAvailable": true,
+  "areServicesAvailable": true
+}

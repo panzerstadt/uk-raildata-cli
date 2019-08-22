@@ -402,9 +402,9 @@ if __name__ == "__main__":
         print('sample record returned from CRS search: "DLY"')
         station_from_CRS(crs="DLY")
         print('-'*100)
-        print('sample record returned from station name search: "Coventry"')
+        print('sample record returned from station name search: "       Coventry"')
         station_from_name(station_name="Coventry")
 
-    # showcase()
+    #showcase()
 
     CLI()

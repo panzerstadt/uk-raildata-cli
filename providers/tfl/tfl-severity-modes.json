@@ -1,958 +1,958 @@
 {
-    "river-bus": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        }
-    ],
-    "tube": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "Service Closed"
-        }
-    ],
-    "tram": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "Service Closed"
-        }
-    ],
-    "dlr": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "Service Closed"
-        }
-    ],
-    "overground": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "Service Closed"
-        }
-    ],
-    "river-tour": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        }
-    ],
-    "tflrail": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "Service Closed"
-        }
-    ],
-    "bus": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        }
-    ],
-    "road": [
-        {
-            "level": 0,
-            "description": "No Issues"
-        },
-        {
-            "level": 5,
-            "description": "Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe"
-        },
-        {
-            "level": 7,
-            "description": "Serious"
-        },
-        {
-            "level": 8,
-            "description": "Moderate"
-        },
-        {
-            "level": 9,
-            "description": "Minimal"
-        },
-        {
-            "level": 10,
-            "description": "No Exceptional Delays"
-        }
-    ],
-    "national-rail": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        },
-        {
-            "level": 20,
-            "description": "No Service"
-        }
-    ],
-    "cycle-hire": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "Suspended"
-        },
-        {
-            "level": 3,
-            "description": "Part Suspended"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        }
-    ],
-    "cable-car": [
-        {
-            "level": 0,
-            "description": "Special Service"
-        },
-        {
-            "level": 1,
-            "description": "Closed"
-        },
-        {
-            "level": 2,
-            "description": "No Service"
-        },
-        {
-            "level": 3,
-            "description": "No Service"
-        },
-        {
-            "level": 4,
-            "description": "Planned Closure"
-        },
-        {
-            "level": 5,
-            "description": "Part Closure"
-        },
-        {
-            "level": 6,
-            "description": "Severe Delays"
-        },
-        {
-            "level": 7,
-            "description": "Reduced Service"
-        },
-        {
-            "level": 8,
-            "description": "Bus Service"
-        },
-        {
-            "level": 9,
-            "description": "Minor Delays"
-        },
-        {
-            "level": 10,
-            "description": "Good Service"
-        },
-        {
-            "level": 11,
-            "description": "Part Closed"
-        },
-        {
-            "level": 12,
-            "description": "Exit Only"
-        },
-        {
-            "level": 13,
-            "description": "No Step Free Access"
-        },
-        {
-            "level": 14,
-            "description": "Change of frequency"
-        },
-        {
-            "level": 15,
-            "description": "Diverted"
-        },
-        {
-            "level": 16,
-            "description": "Not Running"
-        },
-        {
-            "level": 17,
-            "description": "Issues Reported"
-        },
-        {
-            "level": 18,
-            "description": "No Issues"
-        },
-        {
-            "level": 19,
-            "description": "Information"
-        }
-    ]
+  "river-bus": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    }
+  ],
+  "tube": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "Service Closed"
+    }
+  ],
+  "tram": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "Service Closed"
+    }
+  ],
+  "dlr": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "Service Closed"
+    }
+  ],
+  "overground": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "Service Closed"
+    }
+  ],
+  "river-tour": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    }
+  ],
+  "tflrail": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "Service Closed"
+    }
+  ],
+  "bus": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    }
+  ],
+  "road": [
+    {
+      "level": 0,
+      "description": "No Issues"
+    },
+    {
+      "level": 5,
+      "description": "Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe"
+    },
+    {
+      "level": 7,
+      "description": "Serious"
+    },
+    {
+      "level": 8,
+      "description": "Moderate"
+    },
+    {
+      "level": 9,
+      "description": "Minimal"
+    },
+    {
+      "level": 10,
+      "description": "No Exceptional Delays"
+    }
+  ],
+  "national-rail": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    },
+    {
+      "level": 20,
+      "description": "No Service"
+    }
+  ],
+  "cycle-hire": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "Suspended"
+    },
+    {
+      "level": 3,
+      "description": "Part Suspended"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    }
+  ],
+  "cable-car": [
+    {
+      "level": 0,
+      "description": "Special Service"
+    },
+    {
+      "level": 1,
+      "description": "Closed"
+    },
+    {
+      "level": 2,
+      "description": "No Service"
+    },
+    {
+      "level": 3,
+      "description": "No Service"
+    },
+    {
+      "level": 4,
+      "description": "Planned Closure"
+    },
+    {
+      "level": 5,
+      "description": "Part Closure"
+    },
+    {
+      "level": 6,
+      "description": "Severe Delays"
+    },
+    {
+      "level": 7,
+      "description": "Reduced Service"
+    },
+    {
+      "level": 8,
+      "description": "Bus Service"
+    },
+    {
+      "level": 9,
+      "description": "Minor Delays"
+    },
+    {
+      "level": 10,
+      "description": "Good Service"
+    },
+    {
+      "level": 11,
+      "description": "Part Closed"
+    },
+    {
+      "level": 12,
+      "description": "Exit Only"
+    },
+    {
+      "level": 13,
+      "description": "No Step Free Access"
+    },
+    {
+      "level": 14,
+      "description": "Change of frequency"
+    },
+    {
+      "level": 15,
+      "description": "Diverted"
+    },
+    {
+      "level": 16,
+      "description": "Not Running"
+    },
+    {
+      "level": 17,
+      "description": "Issues Reported"
+    },
+    {
+      "level": 18,
+      "description": "No Issues"
+    },
+    {
+      "level": 19,
+      "description": "Information"
+    }
+  ]
 }

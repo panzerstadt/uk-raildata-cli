@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2015-05-08T11:28:33.7187169+01:00",
+  "locationName": "Clapham Junction",
+  "crs": "CLJ",
+  "filterLocationName": "London",
+  "filtercrs": "LON",
+  "delays": true,
+  "totalTrainsDelayed": 1,
+  "totalDelayMinutes": 16,
+  "totalTrains": 12,
+  "delayedTrains": [
+    {
+      "origin": [
+        {
+          "locationName": "London Waterloo",
+          "crs": "WAT",
+          "via": null,
+          "futureChangeTo": null,
+          "assocIsCancelled": false
+        }
+      ],
+      "destination": [
+        {
+          "locationName": "London Waterloo",
+          "crs": "WAT",
+          "via": null,
+          "futureChangeTo": null,
+          "assocIsCancelled": false
+        }
+      ],
+      "currentOrigins": null,
+      "currentDestinations": null,
+      "sta": null,
+      "eta": null,
+      "std": "11:20",
+      "etd": "11:28",
+      "platform": "3",
+      "operator": "South West Trains",
+      "operatorCode": "SW",
+      "isCircularRoute": false,
+      "serviceID": "F4GbTDZuLjb4VlXEYDuakg==",
+      "adhocAlerts": null
+    }
+  ]
+}

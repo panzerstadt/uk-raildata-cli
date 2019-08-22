@@ -1,0 +1,110 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <ns2:DisruptionByDatesResponse
+				xmlns:ns2="http://www.thalesgroup.com/ojp/dis"
+				xmlns:ns3="http://www.thalesgroup.com/ojp/commonDisruption">
+         <ns2:disruption>
+            <ns3:creationTime>2014-01-16T11:20:00.000Z</ns3:creationTime>
+            <ns3:lastChangedDate>2014-02-17T10:34:00.000Z</ns3:lastChangedDate>
+            <ns3:description><![CDATA[<p>Engineering work is taking place between Linlithgow / Polmont and Falkirk High / Falkirk Grahamston with various line closures.</p>
+        <p><strong>East Coast</strong></p>
+        <p>On Sunday trains will be diverted and not call at Falkirk Grahamston, Stirling and Gleneagles, buses will run between Edinburgh and Perth calling at stations normally served by the train.</p>
+        <p><strong>ScotRail</strong></p>
+        <p><em><strong>Saturday</strong></em></p>
+        <p>Train services between Glasgow Queen Street and Edinburgh (via Falkirk High) are diverted, retimed and reduced to operate half-hourly, in both directions. They will not call at Falkirk High, instead they will call at Falkirk Grahamston, Polmont and Linlithgow. Connecting buses will run between Falkirk Grahamston and Falkirk High.  </p>
+        <p><strong><em>Sunday</em></strong></p>
+        <p>Train services between Glasgow Queen Street and Edinburgh (via Falkirk High) are diverted and will terminate at Falkirk Grahamston, connecting buses will run to and from Edinburgh. Connecting bus will run between Falkirk Grahamston and Falkirk High.  </p>
+        <p>The 23:00 and 23:00 from Edinburgh to Glasgow Queen Street will be buses also calling at Haymarket, Linlithgow, Polmont, Falkirk High, Croy.  </p>
+        <p>Train services between Perth / Dunblane / Stirling and Edinburgh will run terminate at Falkirk Grahamston, connecting buses will run to and from Edinburgh.</p>
+        <p>The 20:26 Inverness to London Euston sleeper service is diverted after Perth via Fife, and will no longer call at Gleneagles, Dunblane, Stirling and Falkirk Grahamston. </p>
+        <p><strong>Planning your Journey</strong></p>
+        <p sizset="27" sizcache007449260346535336="0">For full details of these changes and the impact on your journey, please use the National Rail Enquiries <a href="http://ojp.nationalrail.co.uk/"><span>Journey Planner</span></a></p>]]></ns3:description>
+            <ns3:equipmentReason>MAINTENANCE_WORK</ns3:equipmentReason>
+            <ns3:incidentNumber>FFB8032F108948FB9BB1D8414AA6F148</ns3:incidentNumber>
+            <ns3:participantRef>FFB8032F108948FB9BB1D8414AA6F148</ns3:participantRef>
+            <ns3:planned>true</ns3:planned>
+            <ns3:summary>Amended service between Linlithgow / Polmont and Falkirk High / Falkirk Grahamston on Saturday 5 and Sunday 6 April 2014</ns3:summary>
+            <ns3:disruptionVersion>20140217103400</ns3:disruptionVersion>
+            <ns3:changedBy>pthomas</ns3:changedBy>
+            <ns3:ojpVersion>3</ns3:ojpVersion>
+            <ns3:infoLinks>
+               <ns3:label>Additional Maps</ns3:label>
+               <ns3:uri>http://www.nationalrail.co.uk/static/documents/maps/Linlithgow_Falkirk.pdf</ns3:uri>
+            </ns3:infoLinks>
+            <ns3:infoLinks>
+               <ns3:label>nationalrail.co.uk</ns3:label>
+               <ns3:uri>http://www.nationalrail.co.uk/service_disruptions/69227.aspx</ns3:uri>
+            </ns3:infoLinks>
+            <ns3:networks>
+               <ns3:affectedRoute>&lt;p>East Coast between London Kings Cross and Inverness.&lt;/p>
+        &lt;p>ScotRail between Glasgow Queen Street and Edinburgh also Dunblane / Stirling and Edinburgh.&lt;/p></ns3:affectedRoute>
+            </ns3:networks>
+            <ns3:operators>
+               <ns3:name>First ScotRail</ns3:name>
+               <ns3:ref>SR</ns3:ref>
+            </ns3:operators>
+            <ns3:operators>
+               <ns3:name>East Coast</ns3:name>
+               <ns3:ref>GR</ns3:ref>
+            </ns3:operators>
+            <ns3:progress>open</ns3:progress>
+            <ns3:validityPeriod>
+               <ns3:startTime>2014-04-05T01:00:00.000+01:00</ns3:startTime>
+               <ns3:endTime>2014-04-07T00:59:00.000+01:00</ns3:endTime>
+            </ns3:validityPeriod>
+         </ns2:disruption>
+         <ns2:disruption>
+            <ns3:creationTime>2014-01-16T11:20:00.000Z</ns3:creationTime>
+            <ns3:lastChangedDate>2014-01-28T13:40:00.000Z</ns3:lastChangedDate>
+            <ns3:description><![CDATA[<p>Engineering work is taking place between Linlithgow / Polmont and Falkirk High / Falkirk Grahamston with various line closures.</p>
+        <p><strong>East Coast</strong></p>
+        <p>On Sunday trains will be diverted and not call at Falkirk Grahamston, Stirling and Gleneagles, buses will run between Edinburgh and Perth calling at stations normally served by the train.</p>
+        <p><strong>ScotRail</strong></p>
+        <p><em><strong>Saturday</strong></em></p>
+        <p>Train services between Glasgow Queen Street and Edinburgh (via Falkirk High) are diverted, retimed and reduced to operate half-hourly, in both directions. They will not call at Falkirk High, instead they will call at Falkirk Grahamston, Polmont and Linlithgow. Connecting buses will run between Falkirk Grahamston and Falkirk High.  </p>
+        <p><strong><em>Sunday</em></strong></p>
+        <p>Train services between Glasgow Queen Street and Edinburgh (via Falkirk High) are diverted and will terminate at Falkirk Grahamston, connecting buses will run to and from Edinburgh. Connecting bus will run between Falkirk Grahamston and Falkirk High.  </p>
+        <p>The 23:00 and 23:00 from Edinburgh to Glasgow Queen Street will be buses also calling at Haymarket, Linlithgow, Polmont, Falkirk High, Croy.  </p>
+        <p>Train services between Perth / Dunblane / Stirling and Edinburgh will run terminate at Falkirk Grahamston, connecting buses will run to and from Edinburgh.</p>
+        <p>The 20:26 Inverness to London Euston sleeper service is diverted after Perth via Fife, and will no longer call at Gleneagles, Dunblane, Stirling and Falkirk Grahamston. </p>
+        <p><strong>Planning your Journey</strong></p>
+        <p sizcache09648181153626641="0" sizset="27">For full details of these changes and the impact on your journey on Sunday, please use the National Rail Enquiries <a href="http://ojp.nationalrail.co.uk/">Journey Planner</a> </p>
+        <p sizcache09648181153626641="0" sizset="27">The changes for Saturday are not currently shown in the National Rail Enquiries Journey Planner, please check back nearer to the time of travel.</p>]]></ns3:description>
+            <ns3:equipmentReason>MAINTENANCE_WORK</ns3:equipmentReason>
+            <ns3:incidentNumber>FFB8032F108948FB9BB1D8414AA6F148</ns3:incidentNumber>
+            <ns3:participantRef>FFB8032F108948FB9BB1D8414AA6F148</ns3:participantRef>
+            <ns3:planned>true</ns3:planned>
+            <ns3:summary>Amended service between Linlithgow / Polmont and Falkirk High / Falkirk Grahamston on Saturday 5 and Sunday 6 April 2014</ns3:summary>
+            <ns3:disruptionVersion>20140128134000</ns3:disruptionVersion>
+            <ns3:changedBy>CShepherd</ns3:changedBy>
+            <ns3:ojpVersion>2</ns3:ojpVersion>
+            <ns3:infoLinks>
+               <ns3:label>Additional Maps</ns3:label>
+               <ns3:uri>http://www.nationalrail.co.uk/static/documents/maps/Linlithgow_Falkirk.pdf</ns3:uri>
+            </ns3:infoLinks>
+            <ns3:infoLinks>
+               <ns3:label>nationalrail.co.uk</ns3:label>
+               <ns3:uri>http://www.nationalrail.co.uk/service_disruptions/69227.aspx</ns3:uri>
+            </ns3:infoLinks>
+            <ns3:networks>
+               <ns3:affectedRoute>&lt;p>East Coast between London Kings Cross and Inverness.&lt;/p>
+        &lt;p>ScotRail between Glasgow Queen Street and Edinburgh also Dunblane / Stirling and Edinburgh.&lt;/p></ns3:affectedRoute>
+            </ns3:networks>
+            <ns3:operators>
+               <ns3:name>First ScotRail</ns3:name>
+               <ns3:ref>SR</ns3:ref>
+            </ns3:operators>
+            <ns3:operators>
+               <ns3:name>East Coast</ns3:name>
+               <ns3:ref>GR</ns3:ref>
+            </ns3:operators>
+            <ns3:progress>open</ns3:progress>
+            <ns3:validityPeriod>
+               <ns3:startTime>2014-04-05T01:00:00.000+01:00</ns3:startTime>
+               <ns3:endTime>2014-04-07T00:59:00.000+01:00</ns3:endTime>
+            </ns3:validityPeriod>
+         </ns2:disruption>
+      </ns2:DisruptionByDatesResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
